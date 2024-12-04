@@ -1,0 +1,10 @@
+1. Коммиты, которые есть в origin/demo, но отсутствуют в master:
+   Объединение ветки buttons в ветку demo.
+   Объединение ветки boots в ветку release.
+
+2. Коммиты, которые есть в master, но отсутствуют в origin/demo:
+   Объединение ветки boots_buttons.
+   Объединение удалённой ветки origin/hat.
+   Объединение удалённой ветки origin/buttons в ветку boots_buttons.
+   Объединение удалённой ветки origin/boots в ветку boots_buttons.
+   Исправление файла README.
